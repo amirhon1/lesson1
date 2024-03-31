@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+
+nav {
+    /*изменение цвета фона*/
+    background: blue;
+    /*ширина и высота*/
+    width: 500px;
+    height: 500px;
+    /*изменение цвета текста*/
+    color: #fff;
+    /*внутрений отступ*/
+    padding: 20px;
+    /*внешний отступ*/
+    margin: 25px;
+}
+
+h2 {
+    /*цвет текста*/
+    color: #319343;
+    /*размер*/
+    font-size: 50px;
+    /*изменение шрифта*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*изменение размера*/
+    font-weight: 100;
+}
